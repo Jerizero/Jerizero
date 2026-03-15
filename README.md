@@ -1,6 +1,6 @@
 ### Hey, I'm Jeriel
 
-Product-minded builder. I make tools that solve my own problems — flight deal finders, apartment scouts, AI agents, civic tech.
+Product-minded builder. I make tools that solve needs in my day-to-day: flight deal finders, apartment scouts, AI agents, civic tech.
 
 **Currently:** Building AI agents professionally @ Fullstory.
 
