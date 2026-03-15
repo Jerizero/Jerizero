@@ -2,7 +2,7 @@
 
 Product-minded builder. I make tools that solve my own problems — flight deal finders, apartment scouts, AI agents, civic tech.
 
-**Currently:** Building AI agents professionally (Google ADK + Gemini)
+**Currently:** Building AI agents professionally @ Fullstory.
 
 **Stack:** TypeScript · Python · React · Next.js · Playwright · LLM tooling
 
