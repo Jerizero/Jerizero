@@ -12,4 +12,4 @@ Product-minded builder. I make tools that solve needs in my day-to-day: flight d
 
 - **AI automation** — voice interfaces, browser agents, LLM-powered workflows
 - **Data tools** — scrapers, monitors, scoring engines that surface signal from noise
-- **Consumer apps** — PWAs, data viz, things I actually use every day
+- **Consumer apps** — PWAs, data viz, things I use every day
