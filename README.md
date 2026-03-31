@@ -2,7 +2,7 @@
 
 Product-minded builder. I make tools that solve needs in my day-to-day: flight deal finders, apartment scouts, AI agents, civic tech.
 
-**Currently:** Building AI agents professionally @ Fullstory.
+**Currently:** Building AI agents professionally @ Fullstory. Tinkering with automated AI workflow personally. 
 
 **Stack:** TypeScript · Python · React · Next.js · Playwright · LLM tooling
 
