@@ -1,8 +1,8 @@
 ### Hey, I'm Jeriel
 
-Product-minded builder. I make tools that solve needs in my day-to-day: flight deal finders, apartment scouts, AI agents, civic tech.
+Product-minded builder. I make tools that solve needs in my day-to-day: civic tech, flight deal finders, apartment scouts, AI agents.
 
-**Currently:** Building AI agents professionally @ Fullstory. Tinkering with automated AI workflow personally. 
+**Currently:** MCP PM @ Fullstory. Tinkering with automated AI workflows personally. 
 
 **Stack:** TypeScript · Python · React · Next.js · Playwright · LLM tooling
 
